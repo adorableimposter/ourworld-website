@@ -1,0 +1,32 @@
+*{margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgba(241, 124, 189, 0.962);
+}
+
+#heading{
+    color: white;
+    text-align: center;
+    font-weight: 100px;
+    text-shadow: 20px;
+    padding-top: 20px;
+}
+
+
+p{
+    color: rgb(253, 252, 251);
+    font-size: large;
+    margin-top: 15px;
+    text-align: center;
+}
+
+span{margin-top:100px;
+margin-left: 100px;}
+
+
+h1{color: white;
+font-weight: 1200px;
+text-align: center;
+margin-top: 30px;
+font-size: 200px;
+text-shadow: 100px,black;}
